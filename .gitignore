@@ -1,0 +1,10 @@
+# Ignored Folders 
+Library/
+Assembly-CSharp*.csproj
+Assembly-CSharp*.pidb
+Assembly-UnityScript*.unityproj
+Assembly-UnityScript*.pidb
+*.sln
+*.userprefs
+.DS_Store
+Temp/
