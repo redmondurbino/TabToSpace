@@ -31,7 +31,7 @@ using System.IO;
 using System.Text;
 
 /// <summary>
-/// Classe for changing multiple selected files in Project view from tabs to spaces 
+/// Class for changing multiple selected files in Project view from tabs to spaces 
 /// </summary>
 public class ChangeTabToSpace
 {
